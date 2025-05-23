@@ -2,6 +2,5 @@ streamlit
 openai
 langchain
 faiss-cpu
-PyPDF2
 sentence-transformers
-gdown
+PyPDF2
